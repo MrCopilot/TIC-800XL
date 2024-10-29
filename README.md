@@ -1,5 +1,14 @@
 [![Build Status](https://github.com/nesbox/TIC-80/workflows/Build/badge.svg)](https://github.com/nesbox/TIC-80/actions?query=workflow%3ABuild)
+## TIC ##
 
+The Tic-80 is a fantasy console we'd like to make real. That means real hardware, real software and real developers and real engineers and real users. The current state of the Tic-80 is a marvel. We love it so much. Under no circumstances do we want to negatively impact the original project / developers / community with features and unrelated system support.
+
+This project will expand the TIC-80 in scope & deployment without breaking existing compatibility with existing & future TIC-80 carts.
+
+Similar to Home computers in the past, a default cartridge will be pre-installed with extra code, objects and system sprites available to developers at runtime. Changes to the TIC-80 source code are necessary for additional Graphics modes. Modes will be defined to extend and support larger displays and runtime resolution changing.
+Undefined graphics modes will continue to default to standard Tic-80 resolutions and behavior (Mode0).
+
+Any changes to the source code will be under a project fork defined for this purpose under similar licensing under the name TIC-800XL 
 ![TIC-80](https://tic80.com/img/logo64.png)
 **TIC-80 TINY COMPUTER** - [https://tic80.com](https://tic80.com)
 
