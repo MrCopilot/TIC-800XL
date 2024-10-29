@@ -9,6 +9,8 @@ Similar to Home computers in the past, a default cartridge will be pre-installed
 Undefined graphics modes will continue to default to standard Tic-80 resolutions and behavior (Mode0).
 
 Any changes to the source code will be under a project fork defined for this purpose under similar licensing under the name TIC-800XL 
+
+
 ![TIC-80](https://tic80.com/img/logo64.png)
 **TIC-80 TINY COMPUTER** - [https://tic80.com](https://tic80.com)
 
